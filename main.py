@@ -6,6 +6,9 @@ class Sol:
 
   def addition(self):
     return self.num1 + self.num2
+  
+  def multiplication(self):
+    return self.num1 * self.num2
 
    
  
