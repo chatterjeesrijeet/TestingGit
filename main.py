@@ -11,5 +11,10 @@ class Sol:
   def subtraction(self):
     return self.num1 * self.num2
 
+  def subtraction(self):
+    return self.num1 - self.num2
+
+  
+
    
  
